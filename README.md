@@ -1,0 +1,2 @@
+# citats
+Static Site Template
