@@ -7,4 +7,4 @@
  jailed: false
  gfm_quirks: paragraph_end
 
- remote_theme: streetturtle/jekyll-clean-dark
+ remote_theme: CloudCannon/cause-jekyll-template
