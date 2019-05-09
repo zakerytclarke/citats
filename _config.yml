@@ -7,4 +7,4 @@
  jailed: false
  gfm_quirks: paragraph_end
 
- remote_theme: garrettboatman/Blank-Theme-Jekyll
+ remote_theme: simple-themes/blank-theme
