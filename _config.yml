@@ -7,4 +7,4 @@
  jailed: false
  gfm_quirks: paragraph_end
 
- remote_theme: pages-themes/cayman
+ remote_theme: /qwtel/hydejack
